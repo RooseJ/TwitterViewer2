@@ -19,4 +19,4 @@ The following **bonus** features are implemented:
 
 -  User can pull to refresh. (1pt)
 -  User can load past tweets infinitely. (2pts)
--  User can see number of retweets and likes on each tweet.
+-  Made profile pictures circular
