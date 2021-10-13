@@ -1,7 +1,7 @@
 # TwitterViewer
 By Roosevelt
 
-This is a basic twitter app to read your tweets.
+This is a twitter app to read and interact with your tweets.
 
 Time spent: 5 hours spent in total
 
